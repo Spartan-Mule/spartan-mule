@@ -1,4 +1,4 @@
-# Todo App 
+# Todo App
 
 A clean, minimal todo list app built with plain HTML, CSS, and JavaScript. No dependencies, no build step.
 
@@ -21,4 +21,4 @@ todo-app/
 └── app.js       # Logic
 ```
 
-project created by jeff vaz
+project created by the Spartan Mule team
