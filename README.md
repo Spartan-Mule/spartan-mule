@@ -21,4 +21,4 @@ todo-app/
 └── app.js       # Logic
 ```
 
-project created by the Spartan Mule team
+project created by jeffrey vaz of spartan mule
