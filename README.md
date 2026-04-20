@@ -1,4 +1,4 @@
-# Todo App
+# Todo App 
 
 A clean, minimal todo list app built with plain HTML, CSS, and JavaScript. No dependencies, no build step.
 
