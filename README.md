@@ -23,4 +23,4 @@ todo-app/
 
 Spartan Mule Team created this project
 
-Readme last updated on Sept 3. 
+Readme last updated on Sept 15 231pm. 
